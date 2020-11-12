@@ -4,7 +4,7 @@ export const Article = ({ article }) => {
   return (
     <article>
       <img alt={article.thumbnail} src={article.thumbnail} />
-      <div class="text">
+      <div className="text">
         <h3>{article.title}</h3>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod,
