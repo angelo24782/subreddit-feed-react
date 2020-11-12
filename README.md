@@ -1,8 +1,14 @@
-# Getting Started with Create React App
+# Reddit Feed App React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Craeta an app that by connecting to https://www.reddit.com/ is able to search and view their most interesting articles.
+
+## Link Demo
 
 ## Available Scripts
+
+https://subreddit-feed-react.netlify.app/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5b9f5980-e77d-46e9-972a-b6ec98acccb7/deploy-status)](https://app.netlify.com/sites/subreddit-feed-react/deploys)
 
 In the project directory, you can run:
 
